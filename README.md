@@ -10,11 +10,11 @@ Perform multiple linear regression analysis to identify which variables in the d
 
 *Image 1. Using lm ( ) function  to fit linear models*
 
-![This is an Image]()
+![This is an Image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%201.PNG)
  
 *Image 2. Linear Regression Summary*
 
-![This is an Image]()
+![This is an Image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%202.PNG)
  
 #### Written Summary
 
@@ -32,12 +32,12 @@ Collect summary statistics on the pounds per square inch (PSI) of the suspension
 
 *Image 3. Summary Stats on Suspension Coils* 
 
-![This is an image]()
+![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%203.PNG)
  
 
 *Image 4. Lot Summary Stats based on Suspension Coils*
 
-![This is an image]()
+![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%204.PNG)
  
 #### Written Summary 
 
@@ -49,28 +49,28 @@ Run t-tests to determine if the manufacturing lots are statistically different f
 
 *Image 5. Overall T-test on Suspension Coils*
 
-![This is an image]() 5.1
+![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%205.0.PNG)
  
-![This is an image]() 5
+![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%205.PNG)
  
 *Image 5.3. T-test Subset Parameter*
 
-![This is an image]()
+![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%205.3.PNG)
 
 Using the subset parameter of the T-test we were able to      for each individual lot.   
  
 *Image 6. Lot 1
 
-![This is an image]()
+![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%206.PNG)
  
 *Image 7. Lot 2*
 
-![This is an image]()
+![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%207.PNG)
 
  
 *Image 8. Lot 3*
 
-![This is an image]()
+![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%208.PNG)
 
  
 #### Written Summary 
