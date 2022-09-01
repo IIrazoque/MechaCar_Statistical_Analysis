@@ -59,16 +59,16 @@ Run t-tests to determine if the manufacturing lots are statistically different f
 
 Using the subset parameter of the T-test we were able to      for each individual lot.   
  
-*Image 6. Lot 1
+*Image 6. T-Test on Lot 1*
 
 ![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%206.PNG)
  
-*Image 7. Lot 2*
+*Image 7. T-Test on Lot 2*
 
 ![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%207.PNG)
 
  
-*Image 8. Lot 3*
+*Image 8. T-Test on Lot 3*
 
 ![This is an image](https://github.com/IIrazoque/MechaCar_Statistical_Analysis/blob/f999181bfd57c38fb09a3a38f10bc30e2de11cc9/Images/Image%208.PNG)
 
