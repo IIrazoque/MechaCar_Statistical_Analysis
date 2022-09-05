@@ -78,10 +78,14 @@ Using the subset parameter of the T-test we were able to      for each individua
 
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition 
 
-Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
+Purpose: Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For statiscally studies we'll need look into Data, Variability, and statiscally questions. In this example, we can compare city & highway fuel efficiency of MechaCar vehicles versus those of the competitor.
 
-•	What metric or metrics are you going to test?
-o	a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating
-•	What is the null hypothesis or alternative hypothesis?
-•	What statistical test would you use to test the hypothesis? And why?
-•	What data is needed to run the statistical test?
+Hypothesis: Are compact MechaCar vehicles more city & highway efficient when comparing them to the competitor. 
+
+•	What metric or metrics are you going to test? In this example our metric/variable is city & highway fuel efficiency, mile per hour and distance at (ex 1,000 miles)
+
+•	What is the null hypothesis or alternative hypothesis? compact MechCar vehicles are not efficient vehicles when comparing them to the competitor
+
+•	What statistical test would you use to test the hypothesis? And why? comparison test such as ANOVA testing. What is the difference between the two vehicles
+
+•	What data is needed to run the statistical test? Large data set with car type (compact, trucks, vans etc.), miles per gallon, miles per hours, city or highway driving, distance at 1,000 miles.
